@@ -13,7 +13,7 @@ public class FractionTest {/*Написать класс FractionTest
 * пограничные значения*/
     // Написать тесты для конструктора
 
-    @Test
+    /*@Test
     public void creationConstructorWithoutDenominator() {
         Fraction fraction = new Fraction(4);
         assertEquals(4, fraction.getNumerator());
@@ -221,7 +221,7 @@ public class FractionTest {/*Написать класс FractionTest
         Fraction fraction2 = new Fraction(4, 1);
         assertEquals(-1, fraction1.compareTo(fraction2));
         assertEquals(1, fraction2.compareTo(fraction1));
-    }
+    }*/
 }
 
 
